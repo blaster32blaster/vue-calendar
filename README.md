@@ -2,6 +2,7 @@
 
 ## Project setup
 ```
+ensure that node.js and npm are installed
 npm install
 ```
 
