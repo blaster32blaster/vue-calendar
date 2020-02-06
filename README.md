@@ -4,6 +4,8 @@
 ```
 ensure that node.js and npm are installed
 npm install
+npm install -g serve
+serve -s dist
 ```
 
 ### Compiles and hot-reloads for development
